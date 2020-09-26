@@ -1,6 +1,8 @@
 # rcore_secure
 Find discord links or webhooks with simple script - Fivem
 
+Our discord with more scripts: https://discord.gg/F28PfsY
+
 What it do?
 - using fivem natives to find resources
 - load client files
