@@ -1,8 +1,3 @@
-rcore = exports.rcore
-rcore:getEsxServerInstance(function(obj)
-    ESX = obj
-end)
-
 AddEventHandler('onResourceStart',function()
     local numResources = GetNumResources()
     local foundErrors = 0
